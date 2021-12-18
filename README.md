@@ -38,7 +38,6 @@ balena deploy hm-diag --build --debug
 * Download and flash out the disk image provided and boot the device
 * Add the remote Balena repo (`git remote add balena BALENA_USERNAME@git.balena-cloud.com:BALENA_USERNAME/BALENA_PROJECT.git`)
 * The following ENV variables must be set: `FREQ`, `SENTRY_CONFIG`, `SENTRY_DIAG`, `SENTRY_PKTFWD`, and `VARIANT`
-* Add the remote Balena repo (`git remote add balena YourUser@git.balena-cloud.com:YourUser/YourProject.git`)
 
 You can now push your changes using the following command:
 
